@@ -1,0 +1,1652 @@
+[
+    {
+        "category": "Data",
+        "skillName": "Data Visualization",
+        "topicName": "Analyzing Data for the Big Picture",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Data Visualization",
+        "topicName": "Presenting Data to Reveal a Story",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Data Visualization",
+        "topicName": "Convey Meaning with Color & Shapes",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Data Visualization",
+        "topicName": "Interactive Visualization Best Practices",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "Data Visualization",
+        "topicName": "Using JavaScript Charting Libraries",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "Data Visualization",
+        "topicName": "Advanced Excel Charts",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Basic Formulas",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Advanced Formulas",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Custom Theme Styles",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Working with Tables",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Basic Charts",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Advanced Charts",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Building Automated Dashboards",
+        "topicScore": "7"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Charts and Tables with Dropdown Controls",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "PivotTables",
+        "topicScore": "4"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Named Variables",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Excel",
+        "topicName": "Writing VBA Macros",
+        "topicScore": "2"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Defining Micro and Macro Conversions",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Setting up Goals",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Event Tracking",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Segments and Filters",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Dashboards",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Utilizing Shortcuts",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Account and Profile Administration",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Advanced Admin Configuration",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Integrating GWT and AdWords",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Analyzing Data for Tracking Errors",
+        "topicScore": "5"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Filtering Internal and Bot Traffic",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Analytics",
+        "topicName": "Google Analytics API",
+        "topicScore": "7"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Understanding CAP Theorem",
+        "topicScore": "4"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Document Stores",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Tabular Databases",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Key-Value Stores",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Graph Databases",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Querying with JavaScript",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Map & Reduce Queries",
+        "topicScore": "4"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Partitioning & Sharding",
+        "topicScore": "2"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "MongoDB",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Cassandra",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "CouchDB",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Redis",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "NoSQL",
+        "topicName": "Riak",
+        "topicScore": "1"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Working with Accounts and Containers",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Leveraging Preconfigured Tags",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Implementing Rules and Macros",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Debugging Tags with GTM",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Using Custom HTML Tags",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Writing Custom JavaScript Tags",
+        "topicScore": "8"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Implementing Data Layer Code",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Using GTM Variables",
+        "topicScore": "6"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Debugging Tags with Developer Tools",
+        "topicScore": "10"
+    },
+    {
+        "category": "Data",
+        "skillName": "Google Tag Manager",
+        "topicName": "Implementing Event Tracking Tags",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Setting up Documents for Print and Web",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Understanding Raster Graphics",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Smart Organization of Layers and Groups",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Creating and Editing Type",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Advanced Selections and Refine Edge",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Using Layer & Clipping Masks",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Pen Tool and Paths",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Layer Styles",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Transforms",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Working with Smart Objects",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Managing Color Swatches",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Photoshop",
+        "topicName": "Using Grids",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Setting up Documents for Print",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Understanding vector graphics",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Smart Organization of Layers and Groups",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Making detailed selections",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Resizing, rotating, and transforming objects",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Creating swatches and color libraries",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Working with fills and strokes",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Using Shape Builder and Image Trace",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Drawing and editing paths",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Modifying Appearances",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Working with Type",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Illustrator",
+        "topicName": "Using Grids",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Wireframing and Sketching",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Color Theory",
+        "topicScore": "4"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Layout & Composition",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Concept of Space",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Image Editing",
+        "topicScore": "4"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Alignment & Grids",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Print Production",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Design Concepts",
+        "topicName": "Web Production",
+        "topicScore": "8"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Understanding How Type Conveys Meaning",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Display vs. Body Type",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Type Classification",
+        "topicScore": "4"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Legibility & Readability",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Spacing & Alignment",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Color & Tonal Weight",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "Typography",
+        "topicName": "Fonts for the Web",
+        "topicScore": "4"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Web Usability Basics",
+        "topicScore": "10"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Progressive Navigation",
+        "topicScore": "4"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Information Architecture",
+        "topicScore": "4"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Content Strategy",
+        "topicScore": "6"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Usability Testing",
+        "topicScore": "2"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Influencing Behavioral Patterns",
+        "topicScore": "2"
+    },
+    {
+        "category": "Design",
+        "skillName": "User Experience",
+        "topicName": "Persuasive UX Techniques",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Basic Page Structure",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Formatting Page Content",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Semantic Page Structure in HTML5",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Including Scripts and Styles",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Meta Tags",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Microdata Markup",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Implementing Navigation",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Bootstrap Framework",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Skeleton Framework",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "Foundation Framework",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Forms & Validation",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Media (Audio, Video, etc)",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 SVG Graphics",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Canvas",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Communications API",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Geolocation",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Web Workers",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Web Sockets",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Local Storage",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "HTML",
+        "topicName": "HTML5 Web Components",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Inline, Internal and External Styles",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Understanding of the Cascade",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Cross Browser Compatibility",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Box Model",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Element Positioning",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Working with Type",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Page Layouts & Backgrounds",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Media Queries",
+        "topicScore": "7"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Units of Measurement",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Resolving Style Conflicts",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Targeting HTML Elements",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Colors and Gradients",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "Print Friendly CSS",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "CSS3 Animations, Transitions & Transforms",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "CSS3 Shapes and Clip Paths",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "CSS3 Flexbox",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "CSS",
+        "topicName": "CSS3 Webfonts & Typography",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Installing and Configuring WordPress",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Using Child Themes for Customizations",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Designing Static Pages",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Managing Media Content",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Setting up WooCommerce",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "SEO Best Practices for WordPress",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Extending Functionality with Plugins",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Security Precautions & Best Practices",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Developing Themes with Underscores",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "WordPress",
+        "topicName": "Developing Themes with Genesis",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Less Variables",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Less Mixins with Parameters",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Less Native Functions",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Less Pattern Matching",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Sass Variables",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Sass Nested Rules",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Sass Mixins with Paremeters",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "Less & Sass",
+        "topicName": "Sass Functions",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Variables",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Conditional Statements",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Functions",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Loops",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Data Types",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Arrays and Objects",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Navtive Object Methods",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Native Array Methods",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Events and Event Listeners",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Object Oriented JavaScript",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Asynchronous Callbacks",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "AJAX Requests",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Debugging with Developer Tools",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Regular Expressions",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Working with JSON Data",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "JavaScript Design Patterns",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "HTML Templating Engines",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "JavaScript",
+        "topicName": "Lodash Utility Library",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Node Version Management",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Using NPM",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Working with Modules",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Managing Dependencies in package.json",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Creating Web Servers in Node.js",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Understanding the Main Event Loop",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Events and Streams",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "File System Module",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Websocket Programming",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Node.js",
+        "topicName": "Test Driven Development",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "Creating Web Servers with Express",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "Express Generator",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "Configuring Express Router",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "Incuding Public Directories",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "EJS Templating",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "Jade Templating",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "Express.js",
+        "topicName": "Developing REST API Middleware",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Defining Schemas with Mongoose.js",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Data Models with Mongoose.js",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Accessing Databases with Mongoose.js",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Querying Databases and Collections with Mongoose.js",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Validations with Mongoose.js",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Using Local MongoDB Databases",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "MongoDB",
+        "topicName": "Using MongoDB Databases hosted on MongoLab",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Understanding $scope",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Working with Modules",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Implementing Controllers",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Binding Data to Models",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Iterating through Data and Filtering",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using Partial Views",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using $http Service",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using $routeProvider",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Frontend HTML Form Validation",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Building Custom Directives",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Building Custom Services",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Building Custom Filters",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using Angular Touch Module",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using Angular Messages Module",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using Angular Resource Service",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "AngularJS",
+        "topicName": "Using Angular Animate Service",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Selecting and Modifying Elements",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Binding Data to Elements",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Drawing SVG Graphics with D3",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Using Ordinal and Linear Scales",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Adding Events and Transitions",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Creating Axes and Margins",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Creating and Adjusting Layouts",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Controlling Visualization States",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Advanced Animations",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Advanced D3 Layouts",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Working with Real Time Data",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Working with Geomapping",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "D3.js",
+        "topicName": "Using the C3 Library",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "Selectors and Filters",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "Manipulating Page Content",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "jQuery Event Handling",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "jQuery AJAX Requests",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "jQuery Animations",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "jQuery UI Library",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "jQuery Touch Library",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "jQuery",
+        "topicName": "Building jQuery Plugins",
+        "topicScore": "1"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Working with Files & Directories",
+        "topicScore": "10"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Customizing Bash Profiles",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Writing Simple Shell Scripts",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Monitoring Processes",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Working with Text Editors",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Directing Input and Output",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Using grep",
+        "topicScore": "4"
+    },
+    {
+        "category": "Development",
+        "skillName": "Unix",
+        "topicName": "Users, Groups and Permissions",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Git",
+        "topicName": "Architecture & Workflow Concepts",
+        "topicScore": "6"
+    },
+    {
+        "category": "Development",
+        "skillName": "Git",
+        "topicName": "Managing Files & Directories",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Git",
+        "topicName": "Local and Remote Repositories",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Git",
+        "topicName": "Navigating, Cloning & Merging Branches",
+        "topicScore": "2"
+    },
+    {
+        "category": "Development",
+        "skillName": "Git",
+        "topicName": "Working with .gitignore",
+        "topicScore": "8"
+    },
+    {
+        "category": "Development",
+        "skillName": "Git",
+        "topicName": "Ammendments and Resets",
+        "topicScore": "2"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Keyword Research",
+        "topicName": "Mining Keywords from PPC Tools",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Keyword Research",
+        "topicName": "Analyzing Keyword Quality",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Keyword Research",
+        "topicName": "Creating Keyword Optimized Sitemaps",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Keyword Research",
+        "topicName": "Competitor Keyword Analysis",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Keyword Research",
+        "topicName": "Optimizing Content with Keywords",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Content Optimization",
+        "topicName": "Optimizing Text Content",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Content Optimization",
+        "topicName": "Metadata Optimization",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Content Optimization",
+        "topicName": "Video and Image Optimization",
+        "topicScore": "7"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Content Optimization",
+        "topicName": "Content Strategy",
+        "topicScore": "6"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Technical SEO",
+        "topicName": "Optimizing Site Structure for Crawlability",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Technical SEO",
+        "topicName": "Ensure Proper Indexing of Pages",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Technical SEO",
+        "topicName": "Canonical URLs and Redirects",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Technical SEO",
+        "topicName": "Microdata Optimizations using Schema.org",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Technical SEO",
+        "topicName": "Google Webmaster Tools",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Technical SEO",
+        "topicName": "SEO Moz",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Local SEO",
+        "topicName": "Managing Consistent Local Citations",
+        "topicScore": "10"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Local SEO",
+        "topicName": "Google My Business Listings",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Local SEO",
+        "topicName": "Localized On-page Optimization",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Local SEO",
+        "topicName": "Address Microdata using Schema.org",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Local SEO",
+        "topicName": "Utilizing Automated Services",
+        "topicScore": "6"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Conversion Optimization",
+        "topicName": "A/B & Multivariate Testing",
+        "topicScore": "2"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Conversion Optimization",
+        "topicName": "Analyzing Heatmaps and Click Maps",
+        "topicScore": "6"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Conversion Optimization",
+        "topicName": "Optimizing Call to Action Design",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Conversion Optimization",
+        "topicName": "CrazyEgg",
+        "topicScore": "6"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Linkbuilding",
+        "topicName": "Analyzing Link Profiles",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Linkbuilding",
+        "topicName": "Internal and External Link Strategy",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Linkbuilding",
+        "topicName": "Disavowing Spam Links",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Linkbuilding",
+        "topicName": "Majestic SEO",
+        "topicScore": "8"
+    },
+    {
+        "category": "SEO",
+        "skillName": "Linkbuilding",
+        "topicName": "Open Site Explorer",
+        "topicScore": "8"
+    }
+]

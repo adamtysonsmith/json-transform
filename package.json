@@ -1,0 +1,14 @@
+{
+  "name": "skills-data-transform",
+  "version": "1.0.0",
+  "description": "Node.js Script to transform our JSON data to be used for the D3 visualization in my portfolio",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Smith",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.8.0"
+  }
+}
